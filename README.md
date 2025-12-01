@@ -1,20 +1,20 @@
 <html lang="en"><head>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <title>Home | Homiciden</title>
+    <title>Home | Homicide</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     
-    <meta name="title" content="Ghostbin">
-    <meta name="description" content="Ghostbin is a document sharing and publishing website for text-based information such as dox, code-snippets and other stuff.">
+    <meta name="title" content="Homicide">
+    <meta name="description" content="Homicide is a document sharing and publishing website for text-based information such as dox, code-snippets and other stuff.">
 
-    <meta property="og:title" content="Ghostbin">
-    <meta property="og:description" content="Ghostbin is a document sharing and publishing website for text-based information such as dox, code-snippets and other stuff.">
-    <meta property="og:site_name" content="Ghostbin">
+    <meta property="og:title" content="Homicide">
+    <meta property="og:description" content="Homicide is a document sharing and publishing website for text-based information such as dox, code-snippets and other stuff.">
+    <meta property="og:site_name" content="Homicide">
     <meta property="og:type" content="website">
     <meta property="og:url" content="/">
-    <meta property="twitter:title" content="Ghostbin">
-    <meta property="twitter:description" content="Ghostbin is a document sharing and publishing website for text-based information such as dox, code-snippets and other stuff.">
-    <meta name="keywords" content="Ghostbin, ghostbin, Vilebin, vilebin, Darkbin, darkbin, даркбин, вилебин, вил, гостбин, doxbin, доксбин, dox, doxed, ghost, гост">
+    <meta property="twitter:title" content="Homicide">
+    <meta property="twitter:description" content="Homicide is a document sharing and publishing website for text-based information such as dox, code-snippets and other stuff.">
+    <meta name="keywords" content="Homicide, Homicide, Vilebin, vilebin, Darkbin, darkbin, даркбин, вилебин, вил, гостбин, doxbin, доксбин, dox, doxed, ghost, гост">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <style>
